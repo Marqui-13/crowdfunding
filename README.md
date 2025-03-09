@@ -110,4 +110,4 @@ Test using Remix IDE:
 
 ### License
 
-MIT License - see [![LICENSE][LICENSE.md]
+MIT License - see [LICENSE](LICENSE.md)
